@@ -16,7 +16,8 @@ This project allows users to **upload CSV files**, process them **asynchronously
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/<Pavithra342>/csv-processing-django.git
+git clone https://github.com/Pavithra342/csv-processing-django.git
+
 cd csv-processing-django
 
 2️⃣Create and Activate a Virtual Environment
